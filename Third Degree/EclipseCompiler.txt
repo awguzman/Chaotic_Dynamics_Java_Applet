@@ -1,0 +1,27 @@
+4 Sep 2017 18:06:35 GMT: Log 'EclipseCompiler.txt' opened: 4 Sep 2017 18:06:35 GMT with name C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\EclipseCompiler.txt
+4 Sep 2017 18:57:18 GMT: diagnostics = javax.tools.DiagnosticCollector@f4cd24
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e30c3c
+fileObjects = [C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\Quadr.java]
+4 Sep 2017 18:57:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b25f7c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic;C:\Users\antho\Desktop\drjava-beta-20160913-225446.exe]
+4 Sep 2017 18:57:19 GMT: Compiler call returned
+4 Sep 2017 18:57:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@244cb9
+4 Sep 2017 18:57:19 GMT:  Kind = WARNING
+4 Sep 2017 18:57:19 GMT: Name = C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\Quadr.java LineNo = 26 ColNo = 7 Msg = 'The serializable class C_Screen does not declare a static final serialVersionUID field of type long'
+4 Sep 2017 18:57:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@34e2a9
+4 Sep 2017 18:57:19 GMT:  Kind = WARNING
+4 Sep 2017 18:57:19 GMT: Name = C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\Quadr.java LineNo = 40 ColNo = 14 Msg = 'The serializable class Quadr does not declare a static final serialVersionUID field of type long'
+4 Sep 2017 18:57:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@532ad2
+4 Sep 2017 18:57:19 GMT:  Kind = WARNING
+4 Sep 2017 18:57:19 GMT: Name = C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\Quadr.java LineNo = 344 ColNo = 16 Msg = 'The method stringToColor(java.lang.String) from the type Quadr is never used locally'
+4 Sep 2017 18:57:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d0ecb6
+4 Sep 2017 18:57:19 GMT:  Kind = WARNING
+4 Sep 2017 18:57:19 GMT: Name = C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\Quadr.java LineNo = 375 ColNo = 10 Msg = 'The value of the local variable j is not used'
+4 Sep 2017 18:57:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@136536f
+4 Sep 2017 18:57:19 GMT:  Kind = WARNING
+4 Sep 2017 18:57:19 GMT: Name = C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\Quadr.java LineNo = 1498 ColNo = 34 Msg = 'The value of the local variable z is not used'
+4 Sep 2017 18:57:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dad0ca
+4 Sep 2017 18:57:19 GMT:  Kind = WARNING
+4 Sep 2017 18:57:19 GMT: Name = C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\Quadr.java LineNo = 1498 ColNo = 37 Msg = 'The value of the local variable t is not used'
+4 Sep 2017 18:57:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10a7eb9
+4 Sep 2017 18:57:19 GMT:  Kind = WARNING
+4 Sep 2017 18:57:19 GMT: Name = C:\Users\antho\OneDrive\Documents\School\Research\Code\Quadratic\Quadr.java LineNo = 1618 ColNo = 7 Msg = 'The value of the local variable i is not used'
